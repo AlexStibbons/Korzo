@@ -243,7 +243,7 @@ public class FilmController {
 		return new ResponseEntity<>("Film deleted", HttpStatus.OK);
 	}
 	
-	// anything related to genre so directlly should be in
+	// anything related to genre so directly should be in
 	// genre controller, really
 	
 	@DeleteMapping("api/genre/{genreId}")
