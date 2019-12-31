@@ -6,3 +6,5 @@ A CRUD film database in which each film is described by its title, year of relea
 ## Korzo
 
 A web-app serving as a prototype for, ultimately, a standalone desktop app. This folder contains a backend + frontend built with Java Spring Boot and Angular (same stack used for [reddiu](https://github.com/AlexStibbons/reddiu)). 
+
+etc.
